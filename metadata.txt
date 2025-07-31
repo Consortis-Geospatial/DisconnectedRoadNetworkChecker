@@ -1,0 +1,8 @@
+[general]
+name=Consortis Geospatial Disconnected Road Network Checker
+description=Έλεγχος μη συνδεδεμένων τμημάτων οδικού δικτύου με δυνατότητα ορισμού ελάχιστου αποδεκτού μήκους γραμμής.
+version=3.1
+qgisMinimumVersion=3.0
+author=ConsortisGeospatial
+email=gkaravelis@consortis.gr
+icon=icon.png

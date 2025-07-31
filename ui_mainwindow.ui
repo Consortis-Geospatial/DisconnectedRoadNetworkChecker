@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DisconnectedRoadCheckerPanel</class>
+ <widget class="QDockWidget" name="DisconnectedRoadCheckerPanel">
+  <property name="windowTitle">
+   <string>Disconnected Road Checker Panel</string>
+  </property>
+  <widget class="QWidget" name="widget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string>lathoi</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QListWidget" name="geometry_list"/>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+</ui>
