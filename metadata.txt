@@ -1,8 +1,20 @@
 [general]
-name=Consortis Geospatial Disconnected Road Network Checker
-description=Έλεγχος μη συνδεδεμένων τμημάτων οδικού δικτύου με δυνατότητα ορισμού ελάχιστου αποδεκτού μήκους γραμμής.
-version=3.1
+name=DisconnectedRoadChecker
+description=Identifies short, disconnected road segments - commonly referred to as disconnected islands - that are not properly connected to the rest of the road network.  
+ Checks if segment endpoints lack nearby connections within a 0.5 meter buffer to detect topological errors or incomplete digitizations.
+about=DisconnectedRoadChecker is a QGIS plugin designed to flag short road segments isolated from the main network.  
+ It analyzes line geometries and checks if segment endpoints connect to other features within a 0.5 meter proximity.  
+ Users can define a maximum allowed segment length (meters).  
+ Results appear in an interactive dock with zoom and selection options.
+version=1.0
 qgisMinimumVersion=3.0
-author=ConsortisGeospatial
+author=Gkaravelis Andreas - Consortis Geospatial
 email=gkaravelis@consortis.gr
+category=Vector
+homepage=https://github.com/Consortis-Geospatial
+tracker=https://github.com/Consortis-Geospatial/DisconnectedRoadChecker/issues
+repository=https://github.com/Consortis-Geospatial/DisconnectedRoadChecker
+experimental=False
+deprecated=False
 icon=icon.png
+tags=RoadNetwork, NetworkAnalysis, DisconnectedIslands, Topology, QualityControl
