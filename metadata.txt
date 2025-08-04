@@ -8,9 +8,10 @@ about=DisconnectedRoadChecker is a QGIS plugin designed to flag short road segme
  Results appear in an interactive dock with zoom and selection options.
 version=1.0
 qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
 author=Gkaravelis Andreas - Consortis Geospatial
 email=gkaravelis@consortis.gr
-category=Vector
+category=Analysis
 homepage=https://github.com/Consortis-Geospatial
 tracker=https://github.com/Consortis-Geospatial/DisconnectedRoadChecker/issues
 repository=https://github.com/Consortis-Geospatial/DisconnectedRoadChecker
