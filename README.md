@@ -1,3 +1,8 @@
+<div align="center">
+   <img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/a186325b-c05d-4103-a189-dff50f395654" />   
+</div>
+
+
 # DisconnectedRoadChecker
 **DisconnectedRoadChecker** is a QGIS plugin that identifies disconnected islands in road networks, flagging line segments shorter than a user-defined length threshold with unconnected endpoints, helping detect gaps or errors in road network data.
 
@@ -54,5 +59,19 @@ Coming Soon...
 
 ---
 
+## Support and Contributions
+
+- **Homepage**: [https://github.com/Consortis-Geospatial](https://github.com/Consortis-Geospatial)
+- **Issue Tracker**: [https://github.com/Consortis-Geospatial/DisconnectedRoadChecker/issues](https://github.com/Consortis-Geospatial/DisconnectedRoadChecker/issues)
+- **Author**: Gkaravelis Andreas - Consortis Geospatial
+- **Email**: gkaravelis@consortis.gr
+- **Repository**: [https://github.com/Consortis-Geospatial/DisconnectedRoadChecker](https://github.com/Consortis-Geospatial/DisconnectedRoadChecker)
+
+---
+
 ## License
 This plugin is released under the GPL-3.0 license.
+
+<div align="center">
+   <img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/a186325b-c05d-4103-a189-dff50f395654" />   
+</div>
